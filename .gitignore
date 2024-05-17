@@ -1,0 +1,5 @@
+.vscode/launch.json
+__pycache__/keyence.cpython-311.pyc
+__pycache__/keyenceKV.cpython-311.pyc
+__pycache__/mcp_rd_udp.cpython-311.pyc
+__pycache__/melsecMCP3E.cpython-311.pyc
